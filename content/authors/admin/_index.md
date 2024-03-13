@@ -123,5 +123,5 @@ social:
 highlight_name: true
 ---
 
-Juan Núñez received the Telecommunication Engineering degree in 2005 and the Ph.D. degree from the University of Seville, Seville, Spain, in 2011. In 2006 he joined the Seville Institute of Microelectronics (IMSE-CNM) and the Department of Electronics and Electromagnetism of the University of Seville. Since 2023 he is Tenured Scientist at IMSE-CNM. His current research interests include the design of circuits based on unconventional computing paradigms using emerging devices and the development of design strategies for low-power variability-aware and secure circuits based on state-of-the-art CMOS and emerging beyond-CMOS technologies.
+Juan Nunez received the Telecommunication Engineering degree in 2005 and the Ph.D. degree from the University of Seville, Seville, Spain, in 2011. In 2006 he joined the Seville Institute of Microelectronics (IMSE-CNM) and the Department of Electronics and Electromagnetism of the University of Seville. Since 2023 he is Tenured Scientist at IMSE-CNM. His current research interests include the design of circuits based on unconventional computing paradigms using emerging devices and the development of design strategies for low-power variability-aware and secure circuits based on state-of-the-art CMOS and emerging beyond-CMOS technologies.
 {style="text-align: justify;"}

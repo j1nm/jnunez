@@ -253,21 +253,21 @@ sections:
       #  - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '37.4121780850255'
+        longitude: '-6.005924400284808'  
       contact_links:
-        - icon: x
+        - icon: twitter
           icon_pack: fab
           name: Direct Message on Twitter
           link: 'https://twitter.com/jnunez_imse'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+        #- icon: skype
+        #  icon_pack: fab
+        #  name: Skype Me
+        #  link: 'skype:echo123?call'
+        #- icon: video
+        #  icon_pack: fas
+        #  name: Zoom Me
+        #  link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider

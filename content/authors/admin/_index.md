@@ -100,6 +100,9 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.es/citations?user=A1x4SRIAAAAJ&hl=es
+  - icon: orcid # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-0279-9472
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/juannm/

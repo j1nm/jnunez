@@ -91,7 +91,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.es/citations?user=A1x4SRIAAAAJ&hl=es

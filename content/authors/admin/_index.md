@@ -3,7 +3,7 @@
 title: Juan Núñez
 
 # Name pronunciation (optional)
-name_pronunciation: Juan Núñez
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Juan
@@ -29,9 +29,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Emerging Technologies
+  - Low-power and Variability-aware Integrated Circuits Design
+  - Cryptographic Circuits
 
 # Education to show in About widget
 education:
@@ -100,9 +100,12 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.es/citations?user=A1x4SRIAAAAJ&hl=es
-  - icon: orcid # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: orcid 
     icon_pack: ai
     link: https://orcid.org/0000-0002-0279-9472
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Juan-Nunez-Martinez
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/juannm/

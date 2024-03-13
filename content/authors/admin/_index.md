@@ -30,7 +30,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Emerging Technologies
-  - Low-power and Variability-aware Integrated Circuits Design
+  - Low-power Integrated Circuits Design
+  - Variability-aware design techniques
   - Cryptographic Circuits
 
 # Education to show in About widget
@@ -124,5 +125,23 @@ social:
 highlight_name: true
 ---
 
-Juan Núñez received the Telecommunication Engineering degree in 2005 and the Ph.D. degree from the University of Seville, Seville, Spain, in 2011. In 2006 he joined the Seville Institute of Microelectronics (IMSE-CNM) and the Department of Electronics and Electromagnetism of the University of Seville. Since 2023 he is Tenured Scientist at IMSE-CNM. His current research interests include the design of circuits based on unconventional computing paradigms using emerging devices and the development of design strategies for low-power variability-aware and secure circuits based on state-of-the-art CMOS and emerging beyond-CMOS technologies.
+I'm a dedicated scientist at the intersection of microelectronics and nanoelectronics, with a passion for advancing technology through innovative circuit design. My research focuses on the nuanced landscape of integrated circuits, blending the versatility of commercial CMOS technologies with the promise of emerging technologies to address critical aspects such as energy efficiency, security, and reliability.
+
+🚀 Expertise and Research Emphasis:
+My journey in microelectronics unfolds through a dual lens—leveraging the robust foundation of commercial CMOS technologies while navigating the uncharted territories of emerging paradigms. As a fervent advocate for progress, my research is centered on designing integrated circuits that transcend conventional boundaries. I specialize in:
+
+✔ Low Power Design: Pioneering circuits that balance high performance with minimal power consumption.
+✔ Security Measures: Integrating robust security features to fortify microelectronic systems against emerging threats.
+✔ Reliability in Circuits: Ensuring the resilience and dependability of integrated circuits under various conditions.
+
+🌐 Global Collaboration Enthusiast:
+In our interconnected world, I firmly believe that breakthroughs emerge from collaborative endeavors. I am actively seeking international partnerships to embark on transformative projects in the realm of microelectronics. If you're a fellow researcher, innovator, or industry professional with a shared interest in pushing the boundaries of what's possible, I invite you to connect.
+
+🔍 Technology Fusion Advocate:
+My approach involves seamlessly integrating the strengths of established CMOS technologies with the potential of emerging beyond-CMOS technologies. This dynamic fusion serves as the cornerstone of my work, propelling us towards a future where microelectronics redefine the limits of what we can achieve.
+
+🌐 Let's Ignite Innovation Together:
+If you are as passionate about advancing the field of microelectronics as I am, let's connect! Whether it's exploring collaborative opportunities, sharing insights, or discussing the latest developments, I'm eager to engage with like-minded professionals and contribute to the evolution of technology.
+
+#Microelectronics #Nanoelectronics #IntegratedCircuitDesign #CMOS #EmergingTechnologies #GlobalCollaboration #Innovation
 {style="text-align: justify;"}

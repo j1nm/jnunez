@@ -234,12 +234,12 @@ sections:
     content:
       title: Contact me
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      #text: |-
+      #  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: jnunez@csic.es
       phone: +34 954 466 666
-      appointment_url: 'https://calendly.com'
+      #appointment_url: 'https://calendly.com'
       address:
         street: Américo Vespucio 28
         city: Sevilla
@@ -260,10 +260,10 @@ sections:
           icon_pack: fab
           name: Direct Message on Twitter
           link: 'https://twitter.com/jnunez_imse'
-        #- icon: skype
-        #  icon_pack: fab
-        #  name: Skype Me
-        #  link: 'skype:echo123?call'
+        - icon: skype
+          icon_pack: fab
+          name: Skype Me
+          link: 'skype:jnunezmartinez?call'
         #- icon: video
         #  icon_pack: fas
         #  name: Zoom Me
@@ -271,13 +271,13 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      #form:
+      #  provider: netlify
+      #  formspree:
+      #    id:
+      #  netlify:
+      #    # Enable CAPTCHA challenge to reduce spam?
+      #    captcha: false
     design:
       columns: '2'
 ---

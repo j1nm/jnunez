@@ -96,7 +96,7 @@ social:
     link: https://twitter.com/jnunez_imse
     label: Follow me on Twitter
     display:
-    header: true
+      header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.es/citations?user=A1x4SRIAAAAJ&hl=es

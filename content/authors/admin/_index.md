@@ -131,7 +131,9 @@ I'm a dedicated scientist at the intersection of microelectronics and nanoelectr
 My journey in microelectronics unfolds through a dual lens—leveraging the robust foundation of commercial CMOS technologies while navigating the uncharted territories of emerging paradigms. As a fervent advocate for progress, my research is centered on designing integrated circuits that transcend conventional boundaries. I specialize in:
 
 ✔ Low Power Design: Pioneering circuits that balance high performance with minimal power consumption.
+
 ✔ Security Measures: Integrating robust security features to fortify microelectronic systems against emerging threats.
+
 ✔ Reliability in Circuits: Ensuring the resilience and dependability of integrated circuits under various conditions.
 
 🌐 Global Collaboration Enthusiast:

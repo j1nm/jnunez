@@ -39,7 +39,7 @@ education:
     - course: PhD in Microelectronics
       institution: University of Seville
       year: 2011
-    - course: BSc in Artificial Intelligence
+    - course: BSc in Telecommunications Engineering
       institution: University of Seville
       year: 2005
 
@@ -91,12 +91,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/jnunez_imse
-    label: Follow me on Twitter
-    display:
-      header: true
+
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.es/citations?user=A1x4SRIAAAAJ&hl=es
@@ -109,6 +104,15 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/juannm/
+    label: Follow me on LinkedIn
+    display:
+    header: true
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/jnunez_imse
+    label: Follow me on Twitter
+    display:
+    header: true
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +124,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Juan Núñez received the Telecommunication Engineering degree in 2005 and the Ph.D. degree from the University of Seville, Seville, Spain, in 2011. In 2006 he joined the Seville Institute of Microelectronics (IMSE-CNM) and the Department of Electronics and Electromagnetism of the University of Seville. Since 2023 he is Tenured Scientist at IMSE-CNM. His current research interests include the design of circuits based on unconventional computing paradigms using emerging devices and the development of design strategies for low-power variability-aware and secure circuits based on state-of-the-art CMOS and emerging beyond-CMOS technologies.
 {style="text-align: justify;"}

@@ -245,7 +245,7 @@ sections:
         city: Sevilla
         # region: CA
         postcode: '41092'
-        country:Spain
+        country: Spain
         country_code: ES
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       #office_hours:

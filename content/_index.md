@@ -242,7 +242,7 @@ sections:
       #appointment_url: 'https://calendly.com'
       address:
         street: Américo Vespucio 28
-        city: Sevilla
+        city: Sevilla (Spain)
         # region: CA
         postcode: '41092'
         country: 'Spain'

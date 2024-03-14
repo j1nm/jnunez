@@ -98,6 +98,12 @@ social:
   - icon: orcid 
     icon_pack: ai
     link: https://orcid.org/0000-0002-0279-9472
+  - icon: researcherid 
+    icon_pack: ai
+    link: https://www.webofscience.com/wos/author/record/K-2660-2017
+  - icon: scopus
+    icon_pack: ai
+    link: https://www.scopus.com/authid/detail.uri?authorId=57203635378
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Juan-Nunez-Martinez
